@@ -1,0 +1,6 @@
+clrfall.apl - Library
+------------------------------
+15/05/2012	EB	rebuild for new locking and 64bit environment
+08.05.2009	1.1	SS	Change SQLConnect to GALConnect
+
+05/02/2009  ver 1.0

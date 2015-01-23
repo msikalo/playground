@@ -1,0 +1,10 @@
+cls_clmn.apl - Library
+------------------------------
+07/09/2012	DN	add disable/enable help column on DoubleClickOnCaption 
+27/07/2012	DN	integrate help button for number and datatime fields
+20/07/2012	DN	add enable/disable help columns
+25/06/2012	DN	correct change help column
+12/06/2012	DN	integrate new search class in table
+16/12/2012	DN	change data/time based for according regional settings used
+06/11/2009	EB	changes for regional settings independence
+05/02/2009  ver 1.0
