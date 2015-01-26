@@ -1,10 +1,7 @@
 v.1.0 Test our repository 2
 1-42556
 2-hghghg
-<<<<<<< HEAD
 Denis comment :ghghfhf fghfd c jdtytd
-=======
 
 
 lalala
->>>>>>> 52e599ef2e7eace59f464fe4f61d68427614a9b3
