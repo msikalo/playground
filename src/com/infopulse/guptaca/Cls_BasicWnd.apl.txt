@@ -1,0 +1,8 @@
+Cls_BasicWnd.apl - Library
+------------------------------
+13/05/2013		DN	save status hide object on create  
+27/07/2012	DN	integrate help button for number and datatime fields
+15/06/2012		DN	add message for get class name
+18/08/2011	v.1.02	EB	remove obsolete code
+16/07/2010	v.1.01	EB	add base classes for DB-based GUI
+05/02/2009  ver 1.0
