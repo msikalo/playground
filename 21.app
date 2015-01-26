@@ -2364,6 +2364,7 @@ where	f.EINRICHT_ID = :nEinrichtId
 .head 4 -  Call GalConfig_SetInt( "P21", "KHArt", SalListQuerySelection( cmbKHArt ), cfgSYSTEM )
 .head 4 -  Call GalConfig_SetInt( "P21", "KHTraeger", SalListQuerySelection( cmbKHTrager ), cfgSYSTEM )
 .head 4 -  Call GalConfig_SetStr( "P21", "Merkmal", dfMerkmal, cfgSYSTEM )
+.head 4 -  Call SalMessageBox( "ghghghg", "TESTY", 0 )
 .head 4 -  !
 .head 4 -  Call DoExport()
 .head 3 +  On AM_Options
