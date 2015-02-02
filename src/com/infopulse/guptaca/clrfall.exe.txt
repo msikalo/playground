@@ -1,0 +1,22 @@
+15/05/2012	EB	rebuild for new locking and 64bit environment
+v.1.0.5 8/06/09 SS	Change SQLConnect to GALConnect
+
+v.1.0.4 25.06.2004
+	fix of conditional clear, needs dyna_FallClear.apd
+v.1.0.3	11.05.2004
+	added a table to-be erased
+
+30.03.2004
+	performance improvement; added new tables to clear
+
+10.03.04
+	added Sybase support
+
+16.05.03
+	new tables to clear where added
+
+07.06.01
+	'Exclude Fall list' has been added;
+	more Fall-related tables is being cleared
+
+

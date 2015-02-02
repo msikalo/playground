@@ -3,5 +3,9 @@ v.1.0 Test our repository 2
 2-hghghg
 Denis comment :ghghfhf fghfd c jdtytd
 
+<<<<<<< HEAD
 
 lalala
+=======
+lalala
+>>>>>>> cbe76f7aff084405ea4747aa99f277b4bd6a5cb9

@@ -1,0 +1,9 @@
+diff a/NewLibrary1.txt b/NewLibrary1.txt	(rejected hunks)
+@@ -1,6 +1,7 @@
+ v.1.0 Test our repository 2
+ 1-42556
+ 2-hghghg
++<<<<<<< HEAD
+ Denis comment :ghghfhf fghfd c jdtytd
+ =======
+ 
